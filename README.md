@@ -1,4 +1,4 @@
-# chandrax-tech-
+# chandrax-tech
 # 💫 About Me:
 Hi there, I'm Chandrakant Maharana 👋<br><br>🚀 Learning AI/ML | Data Science | Cloud & DevOps<br>💻 Building projects and improving coding skills<br>📚 Always curious about new technologies<br>🎯 Goal: Turn ideas into real-world solutions through code
 
